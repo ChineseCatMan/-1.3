@@ -2,5 +2,5 @@
 
 教程：chrome管理器设置chrome默认安装目录C:\Program Files\Google\Chrome\Application，添加你想要添加多少用户即可，无需任何代码基础 ，开箱即用。
 
-
+下载地址：https://github.com/lokkon/multChrome_pyside2/releases/download/v1.3.0/multChrome.v1.3.0.zip
 ![image](https://raw.githubusercontent.com/lokkon/multChrome_pyside2/main/ui/main.png)
