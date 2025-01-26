@@ -1,11 +1,6 @@
-Chrome Multiple Manager
+谷歌浏览器多开管理器，顾名思义就是能多用户多开浏览器，实现每个chrome互相独立，这样子可以当作平替免费指纹浏览器，放心，基本上很少有项目方会查指纹和IP。
 
-1.Chrome多开管理器，对需要的人有用，不需要的人没用（废话）
+教程：chrome管理器设置chrome默认安装目录C:\Program Files\Google\Chrome\Application，添加你想要添加多少用户即可，无需任何代码基础 ，开箱即用。
 
-2.用途是以多用户身份开启多个Chrome，实现单网站多账号登录（土方法是用隐私模式多开一个窗口，或是用其他浏览器多开，高级一点的方法是自己设置Chrome启动用户，这个程序相当于简化设置过程并统一管理）
-
-3.用的是Python + Pyside2
-
-4.https://github.com/lokkon/multChrome 老版本用的是tkinter，比较丑
 
 ![image](https://raw.githubusercontent.com/lokkon/multChrome_pyside2/main/ui/main.png)
